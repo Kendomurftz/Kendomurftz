@@ -14,9 +14,7 @@
    Command-Line Applications, Websites, Web Apps
    
   ],
-  Projects : [ 
-    MouseFix, iauth, fedsearch
-  ]
+
   
 ```
   
