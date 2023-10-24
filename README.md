@@ -4,7 +4,7 @@
 
 <img align="left" src="https://avatars.githubusercontent.com/u/95893893?v=4" width="189"/>
 
-```js
+```py
   Name : Revenz
   Activity: Private repositories
   Skillset : Typescript, Javascript, C#
