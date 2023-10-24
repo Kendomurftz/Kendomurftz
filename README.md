@@ -12,7 +12,6 @@
   Hobbies  : [
    Application Development,   Utility Development,
    Command-Line Applications, Websites
-   
   ]
 ```
   
